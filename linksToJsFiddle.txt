@@ -1,0 +1,3 @@
+Pieces of code JS OOP in jsfiddle:
+ http://jsfiddle.net/ntorbev/XVH5C/
+ http://jsfiddle.net/ntorbev/nTYWL/
